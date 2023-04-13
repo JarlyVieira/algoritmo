@@ -1,6 +1,6 @@
 programa
 {
-inclua biblioteca Matematica --> Mat//biblioteca incluida para utilização da função "arredondar"
+
 		
 	funcao inicio()
 	{
